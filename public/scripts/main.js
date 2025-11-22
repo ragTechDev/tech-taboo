@@ -486,6 +486,11 @@ function showColors() {
   const host = document.getElementById("colors");
   // Preset base color themes
   const themes = [
+    { name: "Cream", value: "#faf9f5" },
+    { name: "Strawberry", value: "#f97883" },
+    { name: "Tiffany Blue", value: "#7dbfba" },
+    { name: "Lemoncake", value: "#e8c555" },
+    { name: "Product Management", value: "#8b5a49" },
     { name: "Classic Teal", value: "#17424A" },
     { name: "Midnight Blue", value: "#0A1F33" },
     { name: "Indigo", value: "#3F51B5" },

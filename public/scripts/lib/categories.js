@@ -1,5 +1,6 @@
 // public/scripts/lib/categories.js
 export const CATEGORIES = [
+  "General",
   "Software Engineering",
   "Data",
   "AI",
@@ -8,6 +9,7 @@ export const CATEGORIES = [
 
 // Default colors for each category
 export const CATEGORY_COLORS = {
+  "General": "#faf9f5",              // Cream
   "AI": "#f97883",              // Primary Pink (darker)
   "Data": "#7dbfba",           // Secondary Turquoise (darker)
   "Software Engineering": "#e8c555", // Accent Cream (darker)
@@ -16,6 +18,7 @@ export const CATEGORY_COLORS = {
 
 // Text title colors for each category
 export const CATEGORY_TEXT_COLORS = {
+  "General": "#7d7c78",
   "Product Management": "#efe7e4",
   "Data": "#ebf5f6",
   "AI": "#ffebed",
