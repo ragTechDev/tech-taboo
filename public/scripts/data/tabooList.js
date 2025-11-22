@@ -251,7 +251,7 @@ softwareEngineeringTabooList = [
   { index: 96, word: "Single Page Application", taboo: ["React", "Vue", "Angular", "Web", "Frontend"] },
   { index: 97, word: "Sprint", taboo: ["Scrum", "Agile", "Iteration", "Goal", "Backlog"] },
   { index: 98, word: "Staging", taboo: ["Environment", "Deploy", "Test", "Production", "Pre"] },
-  { index: 99, word: "State", taboo: ["React", "Component", "Data", "Change", "Update"] }, //too niche 
+  { index: 99, word: "Code Review", taboo: ["Pull Request", "Feedback", "Check", "Quality", "Approve"] }, //too niche 
   { index: 100, word: "Tailwind", taboo: ["CSS", "Utility", "Framework", "Class", "Style"] }
 ].forEach(item => {
 item.category = "Software Engineering"
