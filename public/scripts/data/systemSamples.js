@@ -182,6 +182,105 @@ export const systemSamples = {
       "twoUp": true,
       "emojiA": "🌐",
       "emojiB": "🧰"
+    },
+    {
+      "title": "💼 Salesperson",
+      "category": "Role Card",
+      "desc": "Ability: Summons the Solution Engineer when things get technical. Gains +10 persuasion when paired with a demo deck.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "💼",
+      "emojiB": "🧠"
+    },
+    {
+      "title": "💲 Client",
+      "category": "Role Card",
+      "desc": "Ability: Flip a coin to determine if the project is a success or failure, pair with Salesperson to automatically succeed.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "💲",
+      "emojiB": "🤝"
+    },
+    {
+      "title": "🤝 Customer Success Manager",
+      "category": "Role Card",
+      "desc": "Ability: Ensures the solution actually works after the sale. Gains synergy with SEs who provide clean handovers.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "🤝",
+      "emojiB": "🌱"
+    },
+    {
+      "title": "🔒 Security Officer",
+      "category": "Role Card",
+      "desc": "Ability: Blocks deployment until all checkboxes are green. Gains bonus power from compliance frameworks.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "🔒",
+      "emojiB": "🛡️"
+    },
+    {
+      "title": "📜 Compliance Officer",
+      "category": "Role Card",
+      "desc": "Ability: Speaks fluent regulation. Automatically reschedules meetings when legal reviews take too long.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "📜",
+      "emojiB": "⚖️"
+    },
+    {
+      "title": "🚨 Risk Manager",
+      "category": "Role Card",
+      "desc": "Ability: Predicts every possible failure scenario. Gains power when the client says 'what could go wrong?'.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "🚨",
+      "emojiB": "📉"
+    },
+    {
+      "title": "🕵️ Fraud Analyst",
+      "category": "Role Card",
+      "desc": "Ability: Detects suspicious activity in data and meetings. Gains synergy when paired with Risk or Security roles.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "🕵️",
+      "emojiB": "💳"
+    },
+    {
+      "title": "📦 Operations Lead",
+      "category": "Role Card",
+      "desc": "Ability: Keeps the lights on and workflows running. Gains stamina when SEs design scalable solutions.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "📦",
+      "emojiB": "🔁"
+    },
+    {
+      "title": "🧾 Procurement Officer",
+      "category": "Role Card",
+      "desc": "Ability: Slows time using the ‘contract review’ spell. Gains strength from long email threads and Excel sheets.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "🧾",
+      "emojiB": "⏳"
+    },
+    {
+      "title": "💰 Finance Manager",
+      "category": "Role Card",
+      "desc": "Ability: Summons budget constraints out of thin air. Becomes unstoppable during end-of-quarter negotiations.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "💰",
+      "emojiB": "📈"
+    },
+    {
+      "title": "👩‍💻 End User",
+      "category": "Role Card",
+      "desc": "Ability: Finds bugs that no test case could. Gains satisfaction when the SE delivers a frictionless experience.",
+      "iconMode": "emoji",
+      "twoUp": true,
+      "emojiA": "👩‍💻",
+      "emojiB": "💡"
     }
   ],
   
